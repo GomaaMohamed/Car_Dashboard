@@ -1,5 +1,5 @@
 # Car Dashboard with SOME/IP Integration
-![Preview](images/Dashboard.png)
+![alt text](./images/Dashboard.png)
 ## Overview
 
 This project implements a car dashboard system that communicates with various services using the SOME/IP (Scalable Service-Oriented MiddlewarE over IP) protocol. The dashboard acts as a client, interacting with services such as speed, fuel level, and temperature etc.
@@ -14,7 +14,7 @@ This project implements a car dashboard system that communicates with various se
 ## Requirements
 
 - **Hardware:** The dashboard system should be compatible with the vehicle's network architecture and capable of connecting to the SOME/IP network.
-- **Software:** Ensure that the necessary libraries and dependencies for SOME/IP communication are installed on the dashboard system[SOME/IP](https://github.com/COVESA/vsomeip).
+- **Software:** Ensure that the necessary libraries and dependencies for SOME/IP communication are installed on the dashboard system [SOME/IP](https://github.com/COVESA/vsomeip).
 
 ## Configuration
 
