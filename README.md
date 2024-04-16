@@ -15,6 +15,7 @@ This project implements a car dashboard system that communicates with various se
 
 - **Hardware:** The dashboard system should be compatible with the vehicle's network architecture and capable of connecting to the SOME/IP network.
 - **Software:** Ensure that the necessary libraries and dependencies for SOME/IP communication are installed on the dashboard system.
+- [SOME/IP](https://github.com/COVESA/vsomeip)
 
 ## Installation
 
